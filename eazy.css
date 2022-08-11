@@ -1,0 +1,37 @@
+a {
+    text-decoration: none;
+}
+
+.center {
+    align-self: center;
+}
+.left {
+    align-self: left;
+}
+.right {
+    align-self: right;
+}
+/*Navigation Bars*/
+.sidebar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: #f1f1f1;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+.top-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.nav-item {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
