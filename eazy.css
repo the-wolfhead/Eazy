@@ -38,6 +38,15 @@ a {
     text-align: center;
     padding: 14px 16px;
 }
+.btn {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
 
 .aliceblue {
     color: aliceblue;
@@ -123,11 +132,47 @@ a {
 .darkmagenta {
     color: darkmagenta;
 }
+.darkolivegreen {
+    color: darkolivegreen;
+}
+.darkorange {
+    color: darkorange;
+}
+.darkorchid {
+    color: darkorchid;
+}
+.darkred {
+    color: darkred;
+}
+.darksalmon {
+    color: darksalmon;
+}
+.darkseagreen {
+    color: darkseagreen;
+}
+.darkslateblue {
+    color: darkslateblue;
+}
+.darkslategray {
+    color: darkslategray;
+}
+.darktorquoise {
+    color: darkturquoise;
+}
+.darkviolet {
+    color: darkviolet;
+}
 .gray {
     color: gray;
 }
 .green {
     color: green;
+}
+.orange {
+    color: orange;
+}
+.purple {
+    color: purple;
 }
 .red {
     color: red;
