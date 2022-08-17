@@ -47,6 +47,9 @@ a {
     display: inline-block;
     font-size: 16px;
 }
+.r {
+    border-radius: 50%;
+}
 
 .aliceblue {
     color: aliceblue;
