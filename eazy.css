@@ -47,8 +47,14 @@ a {
     display: inline-block;
     font-size: 16px;
 }
-.r {
+.r-f {
     border-radius: 50%;
+}
+.r-h {
+    border-radius: 25%;
+}
+.r-q {
+    border-radius: 12.5%;
 }
 
 .aliceblue {
